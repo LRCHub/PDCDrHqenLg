@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "白夏",
+  "base_artist": "ラストランプ",
+  "createdAt": "2026-02-21T08:52:35.036603Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "白夏",
+      "artist": "ラストランプ",
+      "has_synced": false,
+      "path": "select/pl_01_白夏_ラストランプ.txt"
+    }
+  ]
+}
